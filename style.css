@@ -5,3 +5,19 @@
 	float:right;
 	width:160px;
 }
+#nav_container{
+ 	list-style-type:none;
+ 	margin-bottom:15px;
+}
+ul li {
+    	display:inline-block;
+}
+li a {
+    	display:inline-block;
+    	text-decoration:none;
+    	padding:5px;
+    	background:yellow;
+}
+li a:hover{
+    	color:red   
+}
