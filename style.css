@@ -21,3 +21,7 @@ li a {
 li a:hover{
     	color:red   
 }
+#main_content{
+	width:900px;
+	margin:auto;
+}
